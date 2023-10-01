@@ -26,7 +26,10 @@ Power Query was used for the data cleaning and power Bi was used for visualizati
 - Created a relationship between the date table and the Start date column in the fact table.
 - Calculated a measure for total revenue for start date.
 - Used USERELATIONSHIP function to calculate total revenue for end date  so as to activate the second relationship between the date table and the End date column in the fact Table
+
 *Note;* Columns were renamed for a clearer understanding of the data based on the description of each column as stated  in the data dictionary contained in the data link above.
 
 Visualization
-- Created 
+- Created a four page report consisting of front page, Summary page, Channel page and Sales/Revenue page.
+- Some visuals had the report tool tip, drill down and drill through  functions.
+- A segment for advanced analysis was created.
