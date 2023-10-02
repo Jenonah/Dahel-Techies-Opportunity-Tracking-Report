@@ -68,8 +68,8 @@ Based on the insights derived from the analysis of the software company's sales 
    - Tailor strategies to cater to the "Large," "Medium," and "Small" opportunity sizes differently. For partner-driven channels, emphasize targeting larger opportunities, while for non-partner channels, develop strategies for both medium and small opportunities.
    - Address the underperformance in the West region by  investigating the specific challenges faced in this region and devise region-specific strategies for improvement.
    - Encourage channels to engage in more sales stages to handle a wider variety of products. Cross-train channels to be proficient in multiple products, allowing for greater product diversity in the sales portfolio.
-   - Allocate resources, marketing efforts, and incentives in alignment with regional revenue potential. Focus on driving growth in regions that have shown strong performance, such as the East and Central regions.
     - Recognize the weekly revenue patterns and schedule sales activities and marketing campaigns accordingly. Allocate more resources and marketing efforts during the mid-week peaks and consider strategies to boost revenue on low-performance days.
+   - Allocate resources, marketing efforts, and incentives in alignment with regional revenue potential. Focus on driving growth in regions that have shown strong performance, such as the East and Central regions.
   
 
 
