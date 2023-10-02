@@ -42,53 +42,33 @@ In the analysis of the software company's sales data for the period of 2014-2015
 **Summary:**
 
 1. Total Revenue: The software company generated a total revenue of $2.11 billion from 487 sales during the specified period.
-
-2. Company Metrics: During this sales period, the company had 25 products, utilized 101 different sales channels, classified into two types (partner and non-partner), employed 5 sales stages (Lead, Solution, Qualify, Proposal, and Finalize), managed 357 accounts, and categorized opportunity sizes into Medium, Small, and Large.
-
-3. Regional Distribution: The sales activities were spread across three regions: East, Central, and West.
-
-4. Product Revenue: The product "Talus" generated the highest revenue, while "Omins" had the lowest revenue among all products.
-
-5. Channel Performance: "Direct" was the top-performing channels in terms of revenue, while "Zonrap" was the Revenue Channel with the lowest performance.
-
-6. Partner vs. Non-Partner Channels: Partner-driven channels had higher revenue in the "Large" opportunity size category, while non-partner channels performed better in both "Medium" and "Small" opportunity sizes.
-
-7. Regional Revenue: The East region had the highest revenue, followed by the Central and West regions.
-
-8. Product and Channel Distribution: All three regions had the same number of products, but the Central region had the highest number of channels, followed by the East and West regions.
+2.  During this sales period, the company had 25 products, utilized 101 different sales channels, classified into two types (partner and non-partner), employed 5 sales stages (Lead, Solution, Qualify, Proposal, and Finalize), managed 357 accounts, and categorized opportunity sizes into Medium, Small, and Large.
+3. The sales activities were spread across three regions: East, Central, and West.
+4. The product "Talus" generated the highest revenue, while "Omins" had the lowest revenue among all products.
+5. "Direct" was the top-performing channels in terms of revenue, while "Zonrap" was the Revenue Channel with the lowest performance.
+6. Partner-driven channels had higher revenue in the "Large" opportunity size category, while non-partner channels performed better in both "Medium" and "Small" opportunity sizes.
+7. The East region had the highest revenue, followed by the Central and West regions.
+8. All three regions had the same number of products, but the Central region had the highest number of channels, followed by the East and West regions.
 
 **In-depth Insight:**
 
 1. Sales Stage Participation: Almost half (47.9%) of channels were in the initial "Lead" stage, but there was a significant drop in participation as sales progressed, with only 4.41% reaching the "Finalize" stage.
-
-2. Opportunity Size and Channel Type: Partner-driven channels excelled in the "Large" opportunity size, while non-partner channels performed well in both "Medium" and "Small" opportunity sizes, highlighting potential areas for improvement.
-
-3. Regional Performance: Both channel types showed weaker performance in the West region. Partner-driven channels had the highest revenue in the Central region, while non-partner channels excelled in the East region.
-
-4. Sales Stages and Product Variety: Channels that went through all 5 sales stages tended to deal with more products compared to those with fewer sales stages.
-
-5. Revenue and Product Ownership: Although partner-driven channels had the highest total revenue, non-partner channels were responsible for the product with the highest revenue.
-
-6. Product Sales and Channels: Products with a higher number of channels also had a higher number of sales, and vice versa. The number of sales stages did not significantly affect the sales outcome.
-
-7. Revenue Trends: Total revenue for the start year exhibited a downward trend from January to December, while revenue for the end year showed fluctuations, with December being the highest and October the lowest.
-
-8. Weekly Revenue Patterns: Weekly revenue at the start year remained relatively stable, with the highest point on Fridays and the lowest on Mondays. Conversely, weekly revenue at the end year exhibited significant fluctuations, peaking on Thursdays and dropping on Sundays.
+2. Partner-driven channels excelled in the "Large" opportunity size, while non-partner channels performed well in both "Medium" and "Small" opportunity sizes, highlighting potential areas for improvement.
+3. Both channel types showed weaker performance in the West region. Partner-driven channels had the highest revenue in the Central region, while non-partner channels excelled in the East region.
+4. Channels that went through all 5 sales stages tended to deal with more products compared to those with fewer sales stages.
+5. Although partner-driven channels had the highest total revenue, non-partner channels were responsible for the product with the highest revenue.
+6. Products with a higher number of channels also had a higher number of sales, and vice versa. The number of sales stages did not significantly affect the sales outcome.
+7. Total revenue for the start year exhibited a downward trend from January to December, while revenue for the end year showed fluctuations, with December being the highest and October the lowest.
+8. Weekly revenue at the start year remained relatively stable, with the highest point on Fridays and the lowest on Mondays. Conversely, weekly revenue at the end year exhibited significant fluctuations, peaking on Thursdays and dropping on Sundays.
 
 # Recommendations
 
 Based on the insights derived from the analysis of the software company's sales data for 2014-2015, here are some key recommendations for sales managers to optimize sales strategies, resource allocation, and revenue generation:
-
    - Allocate more resources and attention to advancing channels from the "Lead" stage to later stages in the sales funnel.
-
    - Tailor strategies to cater to the "Large," "Medium," and "Small" opportunity sizes differently. For partner-driven channels, emphasize targeting larger opportunities, while for non-partner channels, develop strategies for both medium and small opportunities.
-
    - Address the underperformance in the West region by  investigating the specific challenges faced in this region and devise region-specific strategies for improvement.
-
    - Encourage channels to engage in more sales stages to handle a wider variety of products. Cross-train channels to be proficient in multiple products, allowing for greater product diversity in the sales portfolio.
-
    - Allocate resources, marketing efforts, and incentives in alignment with regional revenue potential. Focus on driving growth in regions that have shown strong performance, such as the East and Central regions.
-
     - Recognize the weekly revenue patterns and schedule sales activities and marketing campaigns accordingly. Allocate more resources and marketing efforts during the mid-week peaks and consider strategies to boost revenue on low-performance days.
   
 
